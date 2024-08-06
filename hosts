@@ -1,0 +1,18 @@
+### Hetzner Online GmbH installimage
+127.0.0.1	localhost.localdomain localhost	
+195.201.211.106	resty.cloudflare.com resty	
+::1	localhost.localdomain localhost ip6-localhost ip6-loopback	
+fe00::0	ip6-localnet	
+ff00::0	ip6-mcastprefix	
+ff02::1	ip6-allnodes	
+ff02::2	ip6-allrouters	
+ff02::3	ip6-allhosts	
+195.214.233.81 ka.plesk.com
+195.214.233.81 id-00.kaid.plesk.com
+195.214.233.81 id-01.kaid.plesk.com
+195.214.233.81 id-02.kaid.plesk.com
+195.214.233.81 id-03.kaid.plesk.com
+195.214.233.81 id-04.kaid.plesk.com
+195.214.233.81 id-05.kaid.plesk.com
+195.214.233.81 alternate.ka.plesk.com
+195.214.233.81 feedback.pp.plesk.com
